@@ -1,10 +1,13 @@
 _repo: The-Geologic-Story-of-Colorado-National-Monument-Revised-Edition_52325
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Stacy, John R.
     gutenberg_agent_id: '46216'
     url: http://www.gutenberg.org/2009/agents/46216
+covers:
+- cover_type: archival
+  image_path: 52325-h/images/cover.jpg
 creator:
   author:
     agent_name: Lohman, Stanley William
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46215'
     url: http://www.gutenberg.org/2009/agents/46215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52325#The-Geologic-Story-of-Colorado-National-Monument-Revised-Edition
 gutenberg_issued: '2016-06-14'
 gutenberg_type: Text
 identifiers:
